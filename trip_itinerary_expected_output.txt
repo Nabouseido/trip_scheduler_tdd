@@ -1,0 +1,34 @@
+Trip Itinerary:  London2022
+ Start Date: '2022/12/1
+ End Date: '2022/12/12
+ Budget: $1500.00
+ Activities: 
+[
+ Activity Name: Breakfast'
+  Start Time: 09:00
+  End Time: 10:00
+  Activity Type: BREAKFAST
+  Cost: $5.00, 
+ Activity Name: Art Gallery'
+  Start Time: 11:15
+  End Time: 10:00
+  Activity Type: MUSEUM
+  Cost: $12.00, 
+ Activity Name: Lunch'
+  Start Time: 13:00
+  End Time: 15:00
+  Activity Type: LUNCH
+  Cost: $10.00, 
+ Activity Name: Dinner'
+  Start Time: 20:30
+  End Time: 22:00
+  Activity Type: DINNER
+  Cost: $15.00]
+ Travellers: 
+[
+ Name: Person4 ID: 4, 
+ Name: Person1 ID: 1, 
+ Name: Person3 ID: 3, 
+ Name: Person5 ID: 5, 
+ Name: Person2 ID: 2]
+ Total Cost $210.00
