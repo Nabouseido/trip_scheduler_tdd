@@ -116,8 +116,6 @@ public class TripTest {
             e.printStackTrace();
         }
         assertEquals(expectedResult, actualResult);
-        System.out.print(actualResult);
-
     }
 
 
